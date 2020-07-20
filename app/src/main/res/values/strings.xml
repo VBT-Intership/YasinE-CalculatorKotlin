@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">YasinE-Calculator</string>
+    <string name="zero">0</string>
+    <string name="point">.</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plus">+</string>
+    <string name="e">e</string>
+    <string name="pi">π</string>
+    <string name="sin">sin</string>
+    <string name="deg">deg</string>
+    <string name="c">C</string>
+    <string name="brackers_left">(</string>
+    <string name="brackers_right">)</string>
+    <string name="slash">/</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="x">x</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="siz">6</string>
+    <string name="hyphen">-</string>
+    <string name="equal">=</string>
+</resources>
